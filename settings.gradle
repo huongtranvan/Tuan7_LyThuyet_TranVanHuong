@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "SQLiteCrud"
+rootProject.name = "ListView_HuongT3"
 include ':app'

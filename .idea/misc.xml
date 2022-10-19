@@ -3,9 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/LENOVO/Documents/Zalo Received Files/SQLiteCrud/SQLiteCrud/app/src/main/res/layout/activity_add_or_edit_game.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/LENOVO/Documents/Zalo Received Files/SQLiteCrud/SQLiteCrud/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/LENOVO/Documents/Zalo Received Files/SQLiteCrud/SQLiteCrud/app/src/main/res/layout/layout_game_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/ListView_HuongT3/app/src/main/res/layout/activity_dien_thoai2.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/ListView_HuongT3/app/src/main/res/layout/activity_main.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/ListView_HuongT3/app/src/main/res/layout/dong_dien_thoai.xml" value="0.1" />
       </map>
     </option>
   </component>
